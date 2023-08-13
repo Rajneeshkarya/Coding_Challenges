@@ -15,8 +15,8 @@ int further(int a){
 
 int main(){
 
-    char hash[20] = "r90o84g43g48u31lyh";
-    char salt[12] = "9084434831";
+    char hash[20] = "r81o26g91g44u71lyh";
+    char salt[12] = "8126914471";
     char new_pass[19];
     char int_pass[9];
 
